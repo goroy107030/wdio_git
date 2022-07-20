@@ -8,6 +8,7 @@ describe('Features: Validating homedepot site', () => {
     after(() => {
         console.log('Windows are closing');
         browser.closeWindow();
+        
     });
 
 
